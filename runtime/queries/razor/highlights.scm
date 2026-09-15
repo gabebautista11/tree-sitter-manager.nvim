@@ -60,6 +60,4 @@
 
 (razor_attribute_name) @function
 
-(razor_attribute_name) @property
 
-(element) @tag
